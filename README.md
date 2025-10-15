@@ -4,7 +4,7 @@ Welcome to **Fit Nutrition Hub** – a modern, responsive, and interactive websi
 
 ---
 
-## 🌟 Features
+## 🔅 Features
 
 - **Responsive Design**: Works perfectly on desktop and mobile devices.  
 - **Animated Hero & Cards**: Smooth fade-in and hover animations.  
